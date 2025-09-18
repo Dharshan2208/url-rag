@@ -1,0 +1,6 @@
+python-dotenv
+agno
+streamlit
+google-genai
+weaviate-client
+redis
